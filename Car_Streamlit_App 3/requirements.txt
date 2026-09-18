@@ -1,1 +1,6 @@
-streamlit\npandas\nmatplotlib\nseaborn\n
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
